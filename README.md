@@ -21,5 +21,5 @@
 
   ## 🌐 Let's Connect
 
-  - rinaldiagusta25@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/rinaldi-agusta-074620188)
+- rinaldiagusta25@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/rinaldi-agusta-074620188)
