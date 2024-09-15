@@ -13,7 +13,7 @@
 ## 🏢 Projects
 
 - [Analisa-penjualan-Pizza-with-Sql](https://github.com/RinaldiAgusta/Analisa-penjualan-Pizza-with-Sql)
-- [Analisa penjualan toko sepeda with sql](https://github.com/RinaldiAgusta/RinaldiAgusta-Projecs-SQL-toko-sepeda)
+- [Analisa penjualan Bike Store](https://github.com/RinaldiAgusta/RinaldiAgusta-Projecs-SQL-toko-sepeda) (Analysis and Dashboard with Power BI)
 
   ## ⚡ Core Competencies
 - Tools: Excel, SQL, Power BI, Tableau, Looker Studio, Python
