@@ -15,12 +15,13 @@
 - [Analisa-penjualan-Pizza-with-Sql](https://github.com/RinaldiAgusta/Analisa-penjualan-Pizza-with-Sql)
 - [Analisa penjualan Bike Store](https://github.com/RinaldiAgusta/RinaldiAgusta-Projecs-SQL-toko-sepeda) (Analysis and Dashboard with Power BI)
 - [Exploratory-Data-Analisis-Netflix with sql](https://github.com/RinaldiAgusta/-Exploratory-Data-Analisis-Netflix)
-- 
-  ## ⚡ Core Competencies
+-[Dasboard Covid 19](https://github.com/RinaldiAgusta/Dashboard-covid-19)
+
+## ⚡ Core Competencies
 - Tools: Excel, SQL, Power BI, Tableau, Looker Studio, Python
 - Skills: Data Cleaning, Data Visualization, Data Analysis, Relational Database
 
-  ## 🌐 Let's Connect
+## 🌐 Let's Connect
 
 - rinaldiagusta25@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/rinaldi-agusta-074620188)
