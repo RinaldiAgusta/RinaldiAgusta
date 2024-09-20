@@ -18,7 +18,7 @@
 - [Dasboard Covid 19](https://github.com/RinaldiAgusta/Dashboard-covid-19)
 
 ## ⚡ Core Competencies
-- Tools: Excel, SQL, Power BI, Tableau, Looker Studio, Python
+- Tools: Excel, SQL, Power BI, Tableau, Looker Studio
 - Skills: Data Cleaning, Data Visualization, Data Analysis, Relational Database
 
 ## 🌐 Let's Connect
