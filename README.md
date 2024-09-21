@@ -16,6 +16,7 @@
 - [Analisa penjualan Bike Store](https://github.com/RinaldiAgusta/RinaldiAgusta-Projecs-SQL-toko-sepeda) (Analysis and Dashboard with Power BI)
 - [Exploratory-Data-Analisis-Netflix with sql](https://github.com/RinaldiAgusta/-Exploratory-Data-Analisis-Netflix)
 - [Dasboard Covid 19](https://github.com/RinaldiAgusta/Dashboard-covid-19)
+- [Analisis world Population](https://github.com/RinaldiAgusta/Analisis-world-population )
 
 ## ⚡ Core Competencies
 - Tools: Excel, SQL, Power BI, Tableau, Looker Studio
