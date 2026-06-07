@@ -1,28 +1,54 @@
 # Hey There 👋
 
-# 👩‍💻About Me
+## 👩‍💻 About Me
 
- -🚀 Hi! I'm Rinaldi!
- 
- -👀 I’m interested in Data Analyst, Data Warhouse and Business Intelligance
- 
- -📚 I’m currently learning Data Exploration in SQL and Pandas.
- 
- -📫 How to reach me @rinaldi
+🚀 Hi! I'm Rinaldi Agusta
+
+👀 I’m interested in Data Analytics, Data Warehousing, and Business Intelligence.
+
+📚 I’m currently learning Data Exploration using SQL and Pandas.
+
+📫 How to reach me: @rinaldi
+
+---
 
 ## 🏢 Projects
 
 - [Implementasi Data Warehouse dan Business Intelligence untuk Analisis Jumlah Desa yang Memiliki Fasilitas Sekolah Menurut Provinsi dan Tingkat Pendidikan](https://drive.google.com/file/d/1pa-T2zm4EsebJJAo28U8dn2zWiVrh4Gm/view?usp=drive_link)
-- [Analisa penjualan Bike Store](https://github.com/RinaldiAgusta/RinaldiAgusta-Projecs-SQL-toko-sepeda) (Analysis and Dashboard with Power BI)
-- [Exploratory-Data-Analisis-Netflix with sql](https://github.com/RinaldiAgusta/-Exploratory-Data-Analisis-Netflix)
-- [Dasboard Covid 19](https://github.com/RinaldiAgusta/Dashboard-covid-19) (Analysis and Dashboard with Power BI)
-- [Analisis World Population](https://github.com/RinaldiAgusta/Analisis-world-population ) (Analysis and Dashboard with Tableau)
+
+- [Bike Store Sales Analysis](https://github.com/RinaldiAgusta/RinaldiAgusta-Projecs-SQL-toko-sepeda)  
+  *(Analysis and Dashboard using Power BI)*
+
+- [Netflix Exploratory Data Analysis](https://github.com/RinaldiAgusta/-Exploratory-Data-Analisis-Netflix)
+
+- [COVID-19 Dashboard](https://github.com/RinaldiAgusta/Dashboard-covid-19)  
+  *(Analysis and Dashboard using Power BI)*
+
+- [World Population Analysis](https://github.com/RinaldiAgusta/Analisis-world-population)  
+  *(Analysis and Visualization using Tableau)*
+
+---
 
 ## ⚡ Core Competencies
-- Tools: Excel, SQL, Power BI, Tableau, Looker Studio
-- Skills: Data Cleaning, Data Visualization, Data Analysis, Relational Database
+
+### Tools
+- Microsoft Excel
+- SQL
+- Power BI
+- Tableau
+- Looker Studio
+
+### Skills
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Relational Database
+- Data Warehousing
+
+---
 
 ## 🌐 Let's Connect
 
-- rinaldiagusta25@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/rinaldi-agusta-074620188)
+📧 Email: rinaldiagusta25@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/rinaldi-agusta-074620188
