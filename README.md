@@ -52,6 +52,12 @@ Analyzed global population data and created interactive visualizations in Tablea
 🔗 Project:
 https://github.com/RinaldiAgusta/Analisis-world-population
 
+### 🎨 Community Mobile App Design (Figma)
+Designed a mobile application prototype using Figma, including wireframes, user flows, and high-fidelity interfaces. Focused on creating an intuitive and engaging user experience for a community-based platform.
+
+🔗 Project:
+https://www.figma.com/design/Tfb31PZXYs922EiIugGrno/Mobile_App_Design--Community-?node-id=0-1&p=f&t=qTZBgWgYxIwHtpfW-0
+
 ---
 
 ## ⚡ Core Competencies
@@ -65,6 +71,7 @@ https://github.com/RinaldiAgusta/Analisis-world-population
 - Looker Studio
 - Amazon QuickSight
 - SAP Analytics Cloud
+- Figma
 
 ### Skills
 - Data Analysis
@@ -77,6 +84,7 @@ https://github.com/RinaldiAgusta/Analisis-world-population
 - Business Intelligence
 - Relational Database Management
 - Reporting & Insights
+- UI/UX Prototyping
 
 ---
 
