@@ -77,14 +77,14 @@ https://www.figma.com/design/Tfb31PZXYs922EiIugGrno/Mobile_App_Design--Community
 
 ## 📜 Certifications
 
-### 📋 Program Analyst Certification
-Completed training and certification focused on business process analysis, requirement gathering, problem-solving, and data-driven decision-making to support organizational objectives.
+### 🏅 BNSP Program Analyst Certification
+Nationally recognized professional certification issued by the National Professional Certification Agency (BNSP), validating competencies in program analysis, business process analysis, requirements gathering, problem-solving, and decision support for organizational needs.
 
 🔗 Certificate:
 https://drive.google.com/file/d/1z4l_41J1Nv2rwv3Eq0fjA1G4iCNb7mfk/view?usp=drive_link
 
-### 🏢 Enterprise Resource Planning (ERP) Certification
-Completed ERP training covering business process integration, enterprise systems, and operational workflow management to support organizational efficiency and digital transformation.
+### 🏢 ERP Odoo Proficiency Certification
+Successfully completed the ERP Odoo Proficiency Assessment conducted by PT Jidoka System Indonesia, demonstrating competency in Enterprise Resource Planning (ERP), business process integration, enterprise system operations, and workflow management. Achieved an **Excellent** proficiency rating.
 
 🔗 Certificate:
 https://drive.google.com/file/d/19EM5jmkXOxCUIy_o4xREJgsLlMcTUPdN/view?usp=drive_link
@@ -113,6 +113,8 @@ https://drive.google.com/file/d/19EM5jmkXOxCUIy_o4xREJgsLlMcTUPdN/view?usp=drive
 - ETL Processes
 - Dashboard Development
 - Business Intelligence
+- Business Process Analysis
+- ERP Systems (Odoo)
 - Relational Database Management
 - Reporting & Insights
 - UI/UX Prototyping
