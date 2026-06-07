@@ -12,7 +12,7 @@
 
 ## 🏢 Projects
 
-- [Analisa-penjualan-Pizza-with-Sql](https://github.com/RinaldiAgusta/Analisa-penjualan-Pizza-with-Sql)
+- [Implementasi Data Warehouse dan Business Intelligence untuk Analisis Jumlah Desa yang Memiliki Fasilitas Sekolah Menurut Provinsi dan Tingkat Pendidikan](https://drive.google.com/drive/u/0/folders/1xl7x74KsRa-0fBE9ioI_JiSYBWk3vrzK)
 - [Analisa penjualan Bike Store](https://github.com/RinaldiAgusta/RinaldiAgusta-Projecs-SQL-toko-sepeda) (Analysis and Dashboard with Power BI)
 - [Exploratory-Data-Analisis-Netflix with sql](https://github.com/RinaldiAgusta/-Exploratory-Data-Analisis-Netflix)
 - [Dasboard Covid 19](https://github.com/RinaldiAgusta/Dashboard-covid-19) (Analysis and Dashboard with Power BI)
