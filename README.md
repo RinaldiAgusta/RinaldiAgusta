@@ -94,17 +94,6 @@ https://github.com/RinaldiAgusta/Dashboard-covid-19
 
 ---
 
-### ☕ Coffee Sales Analysis
-
-Conducted an end-to-end data analysis project on coffee sales data to identify sales trends, top-performing products, customer purchasing patterns, and business opportunities. Developed interactive dashboards and visualizations to support data-driven decision-making.
-
-**Tools:** Sql, Excel, Power BI
-
-🔗 Project:
-https://drive.google.com/file/d/14viFR2zmexbpDa7J0BZgFASJGY6vcaV_/view
-
----
-
 ### 🎨 Community Mobile App Design (Figma)
 
 Designed a mobile application prototype using Figma, including wireframes, user flows, and high-fidelity interfaces. Focused on creating an intuitive and engaging user experience for a community-based platform.
