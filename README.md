@@ -176,9 +176,6 @@ https://drive.google.com/file/d/19EM5jmkXOxCUIy_o4xREJgsLlMcTUPdN/view
 🌐 Portfolio Website:
 https://rinaldiagusta.github.io
 
-💼 LinkedIn:
-https://www.linkedin.com/in/rinaldi-agusta-074620188
-
 💻 GitHub:
 https://github.com/RinaldiAgusta
 
