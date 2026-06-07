@@ -6,17 +6,26 @@
 
 📊 Data Analyst | Data Engineer | Business Intelligence Professional
 
-💼 5+ years of experience in Data Analytics, Data Engineering, Business Intelligence, and Dashboard Development.
+💼 Experienced in Data Analytics, Data Engineering, Business Intelligence, and Dashboard Development.
 
 🔍 Passionate about transforming raw data into actionable insights and helping organizations make data-driven decisions through analytics, reporting, and data visualization.
 
-🛠️ Skilled in SQL, Python, Microsoft Excel, Power BI, Tableau, Looker Studio, Amazon QuickSight, and SAP Analytics Cloud.
+🛠️ Skilled in SQL, Python, Microsoft Excel, Power BI, Tableau, Looker Studio, Amazon QuickSight, SAP Analytics Cloud, and Figma.
 
-📈 Experienced in Data Cleaning, Data Modeling, Data Warehousing, ETL Processes, Dashboard Development, and Business Reporting.
+📈 Experienced in Data Cleaning, Data Modeling, Data Warehousing, ETL Processes, Dashboard Development, Business Reporting, and Data Visualization.
 
 📚 Continuously learning and exploring new technologies in Data Analytics, Data Engineering, and Business Intelligence.
 
 📫 Feel free to connect and collaborate on data-related projects.
+
+---
+
+## 🎓 Education
+
+### 🎓 Universitas Bina Sarana Informatika
+**Bachelor of Information Systems (Sistem Informasi)**
+
+Focused on Database Management, Systems Analysis and Design, Business Intelligence, Data Management, Software Development, and Information Technology Governance.
 
 ---
 
@@ -52,11 +61,33 @@ Analyzed global population data and created interactive visualizations in Tablea
 🔗 Project:
 https://github.com/RinaldiAgusta/Analisis-world-population
 
+### ☕ Coffee Sales Analysis
+Conducted an end-to-end data analysis project on coffee sales data to identify sales trends, top-performing products, customer purchasing patterns, and business opportunities. Developed interactive dashboards and visualizations to support data-driven decision-making.
+
+🔗 Project:
+https://drive.google.com/drive/u/0/folders/16fZMm0umLwEDNlwAL46TX1Ih_1rO9iVZ
+
 ### 🎨 Community Mobile App Design (Figma)
 Designed a mobile application prototype using Figma, including wireframes, user flows, and high-fidelity interfaces. Focused on creating an intuitive and engaging user experience for a community-based platform.
 
 🔗 Project:
 https://www.figma.com/design/Tfb31PZXYs922EiIugGrno/Mobile_App_Design--Community-?node-id=0-1&p=f&t=qTZBgWgYxIwHtpfW-0
+
+---
+
+## 📜 Certifications
+
+### 📋 Program Analyst Certification
+Completed training and certification focused on business process analysis, requirement gathering, problem-solving, and data-driven decision-making to support organizational objectives.
+
+🔗 Certificate:
+https://drive.google.com/file/d/1z4l_41J1Nv2rwv3Eq0fjA1G4iCNb7mfk/view?usp=drive_link
+
+### 🏢 Enterprise Resource Planning (ERP) Certification
+Completed ERP training covering business process integration, enterprise systems, and operational workflow management to support organizational efficiency and digital transformation.
+
+🔗 Certificate:
+https://drive.google.com/file/d/19EM5jmkXOxCUIy_o4xREJgsLlMcTUPdN/view?usp=drive_link
 
 ---
 
