@@ -55,12 +55,6 @@ Analyzed COVID-19 datasets and built a Power BI dashboard to visualize case tren
 🔗 Project:
 https://github.com/RinaldiAgusta/Dashboard-covid-19
 
-### 🌍 World Population Analysis
-Analyzed global population data and created interactive visualizations in Tableau to explore demographic trends and population distribution across countries.
-
-🔗 Project:
-https://github.com/RinaldiAgusta/Analisis-world-population
-
 ### ☕ Coffee Sales Analysis
 Conducted an end-to-end data analysis project on coffee sales data to identify sales trends, top-performing products, customer purchasing patterns, and business opportunities. Developed interactive dashboards and visualizations to support data-driven decision-making.
 
