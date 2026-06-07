@@ -10,7 +10,7 @@ Passionate about transforming raw data into meaningful insights through data ana
 
 🛠️ Skilled in SQL, Python, Microsoft Excel, Power BI, Tableau, Looker Studio, Amazon QuickSight, SAP Analytics Cloud, and Figma.
 
-📈 Experienced in Data Cleaning, Data Modeling, Data Warehousing, ETL Processes, Dashboard Development, Business Reporting, and Data Visualization.
+📈 Experienced in Data Cleaning, Data Modeling, Data Warehousing, ETL Processes, Dashboard Development, Business Reporting, Data Visualization, and Machine Learning.
 
 📚 Continuously learning and exploring new technologies in Data Analytics, Data Engineering, Business Intelligence, and Artificial Intelligence.
 
@@ -47,6 +47,28 @@ Performed sales data analysis using SQL and developed an interactive Power BI da
 
 🔗 Project:
 https://github.com/RinaldiAgusta/RinaldiAgusta-Projecs-SQL-toko-sepeda
+
+---
+
+### 🧹 SQL Project: Data Cleaning – Layoffs Dataset
+
+Performed data cleaning and preprocessing on a layoffs dataset using SQL. Applied techniques such as handling duplicates, managing missing values, standardizing data formats, and improving data quality to prepare the dataset for further analysis and reporting.
+
+**Tools:** SQL
+
+🔗 Project:
+https://github.com/RinaldiAgusta/SQL-Project
+
+---
+
+### ❤️ Prediksi Serangan Jantung di Indonesia
+
+Developed a machine learning project to predict the risk of heart attacks in Indonesia using healthcare-related data. Performed data preprocessing, exploratory data analysis, model development, and evaluation to generate predictive insights that can support early detection and decision-making.
+
+**Tools:** Python, Machine Learning, Data Analysis
+
+🔗 Project:
+https://github.com/RinaldiAgusta/Prediksi-Serangan-Jantung-di-Indonesia
 
 ---
 
@@ -138,6 +160,7 @@ https://drive.google.com/file/d/19EM5jmkXOxCUIy_o4xREJgsLlMcTUPdN/view
 * ETL Processes
 * Dashboard Development
 * Business Intelligence
+* Machine Learning
 * Business Process Analysis
 * ERP Systems (Odoo)
 * Relational Database Management
@@ -161,4 +184,4 @@ https://github.com/RinaldiAgusta
 
 ---
 
-⭐ *Thank you for visiting my profile. Feel free to explore my projects and connect with me for collaboration, data analytics, business intelligence, and technology-related opportunities.*
+⭐ **Thank you for visiting my profile. Feel free to explore my projects and connect with me for collaboration, data analytics, business intelligence, data engineering, machine learning, and technology-related opportunities.**
