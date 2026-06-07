@@ -98,7 +98,7 @@ https://github.com/RinaldiAgusta/Dashboard-covid-19
 
 Conducted an end-to-end data analysis project on coffee sales data to identify sales trends, top-performing products, customer purchasing patterns, and business opportunities. Developed interactive dashboards and visualizations to support data-driven decision-making.
 
-**Tools:** Excel, Power BI
+**Tools:** Sql, Excel, Power BI
 
 🔗 Project:
 https://drive.google.com/file/d/14viFR2zmexbpDa7J0BZgFASJGY6vcaV_/view
