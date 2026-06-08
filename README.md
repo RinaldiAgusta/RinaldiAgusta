@@ -146,17 +146,6 @@ https://drive.google.com/file/d/19EM5jmkXOxCUIy_o4xREJgsLlMcTUPdN/view
 * Reporting & Insights
 * UI/UX Prototyping
 
----
-
-## 🌐 Let's Connect
-
-📧 Email: **[rinaldiagusta25@gmail.com](mailto:rinaldiagusta25@gmail.com)**
-
-🌐 Portfolio Website:
-https://rinaldiagusta.github.io
-
-💻 GitHub:
-https://github.com/RinaldiAgusta
 
 ---
 
