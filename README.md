@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-🚀 Hi! I'm **Rinaldi Agusta**
+🚀 Hi! I'm **Rinaldi**
 
 📊 **Data Analyst | Business Intelligence Analyst | Data Warehouse Enthusiast**
 
