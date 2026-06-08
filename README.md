@@ -16,16 +16,6 @@ Passionate about transforming raw data into meaningful insights through data ana
 
 ---
 
-## 🎓 Education
-
-### 🎓 Universitas Bina Sarana Informatika
-
-**Bachelor of Information Systems (Sistem Informasi)**
-
-Focused on Database Management, Systems Analysis and Design, Business Intelligence, Data Management, Software Development, and Information Technology Governance.
-
----
-
 ## 🏢 Projects
 
 ### 📊 Data Warehouse & Business Intelligence for Educational Facilities Analysis
